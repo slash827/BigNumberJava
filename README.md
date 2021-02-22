@@ -1,5 +1,5 @@
 # This repository contains many coding challenges that I solved.
 
-one of them is a class  that supports very big positive integers in java and allows basic operations with them.
+BigNumber - a class  that supports very big positive integers in java and allows basic operations with them.
 
-the other is a linear equation solver, getting rows of string that each represents an equation
+Linear Equation Solver is a function that get a list of strings, each represents a linear equation, and determines if the system is solvable and if so return the single solution or None otherwise.
